@@ -1,4 +1,4 @@
-/*********************************************************************************
+
 (function(w, d) {
     function board(width, height) {
         this.boardBg = null;
