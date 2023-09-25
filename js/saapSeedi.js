@@ -306,7 +306,7 @@
             return false;
         }
         var dice = document.getElementById('dice');
-        dice.src = 'https://host-codes.github.io/Snake_Ladder/images/' + value + '.png';
+        dice.src = 'https://host-codes.github.io/Snake_Ladder/images/face' + value + '.png';
     }
     
     b.log = function(message) {
